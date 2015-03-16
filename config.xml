@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-  id="com.sensestudios.zoomintv.jacksepticeye" 
-  version="2.2.4" 
+  id="com.sensestudios.zoomintv.makeupguru" 
+  version="1.0.0" 
   versioncode="21"
   xmlns="http://www.w3.org/ns/widgets" 
   xmlns:gap="http://phonegap.com/ns/1.0"
@@ -9,11 +9,11 @@
   xmlns:cdv="http://cordova.apache.org/ns/1.0"
 >
 
-    <name>JackSepticeye</name>
-    <description>ZoominTV Jacksepticeye Channel</description>
+    <name>MakeUpGuru</name>
+    <description>ZoominTV MakeUpGuru Channel</description>
     <author email="info@zoomin.tv" href="http://zoomin.tv">ZoominTV</author>
     
-    <content src="http://zoomintvjacksepticeye.herokuapp.com/" />
+    <content src="http://zoomintvmakeupguru.herokuapp.com/" />
     <!-- <content src="http://develop.sense-studios.com:32000" /> -->
     <!-- <content src="http://zoomintvgames-staging.herokuapp.com" /> -->
     <access origin="*" />
